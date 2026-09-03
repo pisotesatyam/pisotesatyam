@@ -1,140 +1,82 @@
-<h1 align="center">Hi 👋, I'm Adityaraj Patil</h1>
-<h3 align="center">A passionate Full Stack Developer, Mentor, and Technical Trainer</h3>
+<h1 align="center">Satyam Pisote</h1>
+<h3 align="center">Computer Engineering Student | AI, ML & IoT</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Mentor+%26+Technical+Trainer;+Enthusiast;Building+Scalable+Web+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E86AB&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;AI+%2F+ML+%2F+IoT+Developer;Building+Real-World+Solutions" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- Social Links -->
 <p align="center">
-  <a href="mailto:ASPATIL2904@GMAIL.COM">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:satyampisote@gmail.com">
+    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://instagram.com/iam_adi29">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+  <a href="https://linkedin.com/in/satyampisote">
+    <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <!-- Add your LinkedIn or Twitter here if you want! -->
-  <!-- <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
+  <a href="https://github.com/pisotesatyam">
+    <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
-<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
+## About
 
-## 💫 About Me
+Computer Engineering student with a focus on solving real-world problems through AI, ML, and IoT. Developed an IoT-based water quality monitoring system for rural applications and an AI-driven career guidance platform. Strong interest in problem-solving, system design, and building scalable, impactful solutions through hands-on projects and hackathons.
 
-I’m **Adityaraj Patil**, a passionate Full Stack Developer, Mentor, and Technical Trainer with hands-on experience in building scalable web applications, guiding students and interns, and working on real-world problem-solving systems.
+Currently pursuing a Bachelor of Engineering in Computer Engineering at Trinity College of Engineering and Research, Pune (2024 – 2028).
 
-- 🏢 I currently work as a **Mentor & Trainer**, delivering technical guidance and project-based learning under **DevineTech Solutions**, where I focus on practical development, architecture clarity, and industry-ready skills.
-- 💼 Alongside this, I am actively working with **Dexpert Systems**, contributing to development and learning in advanced system design and modern technology stacks.
+## Technical Skills
 
-### 💻 What I Do
-- 🌐 Full Stack Web Development (Frontend & Backend)
-- 🎓 Mentoring & Training aspiring developers
-- 🏗️ Project Architecture & System Design
-- 🔬 Research-oriented and problem-solving based development
-- 🤝 Guiding interns on real-world applications and best practices
+**Languages:** C++, Java, Python
 
-### 🚀 Interests
-- 🤖 AI-assisted systems & automation
-- 🧩 Clean code, system thinking, and product mindset
-- 📚 Teaching through real projects
+**Web Development:** HTML, CSS, JavaScript
 
-### 📌 Philosophy
-> *"Build with purpose. Learn continuously. Teach what you master."*
+**IoT & Hardware:** Arduino, Sensor Integration
 
-<br>
-
-## 💻 Tech Stack
+**Computer Science Fundamentals:** Data Structures, Object-Oriented Programming, Operating Systems, DBMS
 
 <p align="left">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/c%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <br>
-  <!-- Frontend & Backend -->
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
-  <br>
-  <!-- Data Science & ML -->
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
-  <br>
-  <!-- Cloud & DevOps -->
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
-  <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" alt="AmazonDynamoDB" />
-  <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <br>
-  <!-- Tools & Testing -->
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
-  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power Bi" />
-  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
 </p>
 
-<br>
+## Projects
 
-## 🚀 Upcoming Projects
+**Jalparichay — IoT-Based Water Quality Monitoring System** (09/2025 – 01/2026)
+Developed an IoT-based system using pH and turbidity sensors with Arduino for real-time water quality monitoring. Built a web/mobile interface with an integrated SMS alert system, designed as a low-cost, scalable solution for rural applications. Winner, VOIS Tech Innovation Marathon on Emerging Technologies (Vodafone Intelligent Solutions).
 
-1. **FLAT MATE** - [Upcoming]
-2. **NODE NET** - [Upcoming]
-3. **ENGIWORLD** - [Upcoming]
-4. **TEAMO :DIY STORE** - [Upcoming]
-5. **DAILY ROUTINE TRACKER** - [Upcoming]
+**EduGo — AI-Based Career Guidance Tutor** (06/2025 – 08/2025)
+Built an AI-powered platform providing personalized career recommendations based on user input, designed as an interactive and scalable solution.
 
----
+**All-in-One PDF Assistant** (10/2024 – 11/2024)
+Developed a web-based tool for merging, splitting, and converting PDF files using HTML, CSS, and JavaScript, with a focus on a user-friendly interface and efficient processing.
 
-## 🛠️ IoT Projects (Patented)
+## Education
 
-1. **WOMEN SAFETY DEVICE** 
-2. **IOT BASED NOVEL SCENNER**
+**Bachelor of Engineering (B.E.) in Computer Engineering**
+Trinity College of Engineering and Research, Pune — 2024 to 2028
 
----
+## Awards
 
-## 📖 Author of Books
+- Winner, VOIS Tech Innovation Marathon on Emerging Technologies — Vodafone Intelligent Solutions (VOIS), February 2026. Awarded ₹2,00,000 for developing Jalparichay, an IoT-based water quality monitoring system.
+- Third Position, Mini Project Competition — Trinity College of Engineering and Research, December 2024.
 
-1. **LAST SIX DAYS**
-2. **THE LOVE I CANT HOLD**
-3. **THE TUNNEL PARADOX**
-4. **I KILLED MYSELF**
-5. **THE FALL OF YASAKA**
-6. **IS THIS FIRST ?**
+## Certifications
 
+- Sentiment Analysis with Machine Learning and NLP — Vodafone Idea Foundation, February 2026
+- Ethical Considerations for Generative AI (MDL-571) — IBM SkillsBuild, October 2025
+- National Cybersecurity (Cyber Hygiene Practices) — Ministry of Electronics and Information Technology, Government of India, May 2025
 
-## 📊 GitHub Stats
+## GitHub Statistics
 
-  
-  <!-- Streak Stats -->
-  <img src="https://nirzak-streak-stats.vercel.app/?user=aspatil0&theme=dark&hide_border=false" alt="aspatil0's GitHub Streak" />
-</div>
-
-<br>
-
-
-
-<br>
-
-<!-- Optional: Snake Animation - You can easily set this up with a GitHub Action if you don't have it yet! -->
-
-<!-- <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aspatil0/aspatil0/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aspatil0/aspatil0/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aspatil0/aspatil0/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>  -->
-
-
----
 <div align="center">
-  <i>"Programming isn't about what you know; it's about what you can figure out."<br>Let's build something amazing! 🚀</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=pisotesatyam&show_icons=true&theme=default&hide_border=false" alt="Satyam's GitHub Stats" />
+  <br>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=pisotesatyam&theme=default&hide_border=false" alt="Satyam's GitHub Streak" />
 </div>
+
